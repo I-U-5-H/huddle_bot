@@ -307,8 +307,8 @@ erDiagram
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/chandshi-g/Huddle.git
-   cd Huddle
+   git clone https://github.com/I-U-5-H/huddle_bot.git
+   cd huddle_bot
    ```
 
 2. **Set Up a Virtual Environment**
